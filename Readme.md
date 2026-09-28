@@ -36,16 +36,6 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 - **PKLandSeg** Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
 - **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| **ML-Assisted Geospatial Annotation Tool** | Model-in-the-loop landslide annotation pipeline cut manual annotation time by 66% |
-| **Geospatial Traffic Analysis — Istanbul** | Spatial regression (Moran's I, LISA, DBSCAN) on Airbnb density vs. congestion |
-| **My-Drive** | Distributed cloud storage with replication, load balancing & fault tolerance |
-| **Wasooli AI** | Co-founded fintech — conversational AI debt recovery over WhatsApp/SMS |
 
 ---
 
