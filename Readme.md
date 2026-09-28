@@ -18,7 +18,7 @@
 
 ---
 
-### 🌍 About Me
+###  About Me
 
 I'm an **AI engineer and researcher** working at the intersection of **geospatial deep learning, generative AI, and MLOps**. From landslide segmentation on satellite imagery to production RAG systems, I turn hard spatial and language problems into working, deployed software.
 
@@ -31,7 +31,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 
 ---
 
-### 🔬 Research
+###  Research
 
 - 🛰️ **PKLandSeg** Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
 - 🛰️ **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
@@ -39,7 +39,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
