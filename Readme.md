@@ -27,7 +27,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 - 🛰️ Specialized in **remote sensing, computer vision, and spatial data science**
 - 📄 Research published in **IEEE GRSL** 
 - 💼 5+ years across research labs, startups, and consulting
-- 📍 Based in **Lahore, Pakistan** — open to remote & relocation
+- 📍 Based in **Lahore, Pakistan** 
 
 ---
 
@@ -35,8 +35,6 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 
 - **PKLandSeg** — PKLandSeg: Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
 - **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
-
-📚 Full list on [Google Scholar](https://scholar.google.ch/citations?hl=en&user=aQThYnwAAAAJ)
 
 ---
 
