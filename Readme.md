@@ -42,7 +42,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 
 | Project | Description |
 |---|---|
-| **ML-Assisted Geospatial Annotation Tool** | Model-in-the-loop landslide annotation pipeline — cut manual annotation time by 66% |
+| **ML-Assisted Geospatial Annotation Tool** | Model-in-the-loop landslide annotation pipeline cut manual annotation time by 66% |
 | **Geospatial Traffic Analysis — Istanbul** | Spatial regression (Moran's I, LISA, DBSCAN) on Airbnb density vs. congestion |
 | **My-Drive** | Distributed cloud storage with replication, load balancing & fault tolerance |
 | **Wasooli AI** | Co-founded fintech — conversational AI debt recovery over WhatsApp/SMS |
