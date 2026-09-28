@@ -22,19 +22,19 @@
 
 I'm an **AI engineer and researcher** working at the intersection of **geospatial deep learning, generative AI, and MLOps**. From landslide segmentation on satellite imagery to production RAG systems, I turn hard spatial and language problems into working, deployed software.
 
-- 🎓 **MS Computer Science  [Gold Medalist]**, Information Technology University (ITU), Lahore
-- 🎓 **B.Sc. Electronic Engineering, GIK Institute (GIKI)**
-- 🛰️ Specialized in **remote sensing, computer vision, and spatial data science**
-- 📄 Research published in **IEEE GRSL** 
-- 💼 5+ years across research labs, startups, and consulting
-- 📍 Based in **Lahore, Pakistan** 
+🎓 **MS Computer Science  [Gold Medalist]**, Information Technology University (ITU), Lahore
+🎓 **B.Sc. Electronic Engineering, GIK Institute (GIKI)**
+🛰️ Specialized in **remote sensing, computer vision, and spatial data science**
+📄 Research published in **IEEE GRSL** 
+💼 5+ years across research labs, startups, and consulting
+📍 Based in **Lahore, Pakistan** 
 
 ---
 
 ###  Research
 
-- 🛰️ **PKLandSeg** Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
-- 🛰️ **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
+🛰️ **PKLandSeg** Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
+🛰️ **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
 
 
 ---
