@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://saadhammad14.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2FE6C4?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saad-bin-hammad-89b584108/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.ch/citations?hl=en&user=aQThYnwAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="mailto:saadhammad306@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
