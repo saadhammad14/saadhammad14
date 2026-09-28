@@ -64,4 +64,10 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 - 🌐 **Portfolio:** [saadhammad14.github.io/portfolio](https://saadhammad14.github.io/portfolio/)
 - 🏢 **Company:** [Tech Supa](https://techsupa.com/) · [Tech Supa × RSA Lab](https://rsa.techsupa.com/)
 
-<p align="center"><i>Let's build something that reads the earth. 🌍</i></p>
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+the+future+together+%F0%9F%9A%80)
+
+</div>
