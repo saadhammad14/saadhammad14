@@ -72,5 +72,6 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 - 📱 **Phone:** +92 333 4818881
 - 💼 **LinkedIn:** [saad-bin-hammad](https://www.linkedin.com/in/saad-bin-hammad-89b584108/)
 - 🌐 **Portfolio:** [saadhammad14.github.io/portfolio](https://saadhammad14.github.io/portfolio/)
+- - 🏢 **Company:** [Tech Supa](https://techsupa.com/) · [Tech Supa × RSA Lab](https://rsa.techsupa.com/)
 
 <p align="center"><i>Let's build something that reads the earth. 🌍</i></p>
