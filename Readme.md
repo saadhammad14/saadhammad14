@@ -52,7 +52,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 ![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Focus areas:** Machine Learning · Geospatial Deep Learning · Remote Sensing (SAR & Optical) · Computer Vision · Generative AI & RAG · MLOps
+**Focus areas:** Machine Learning · Deep Learning · Spatial Datascience · Remote Sensing (SAR & Optical) · Computer Vision · Generative AI & RAG · MLOps
 
 ---
 
