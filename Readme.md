@@ -35,6 +35,7 @@ I'm an **AI engineer and researcher** working at the intersection of **geospatia
 
 - 🛰️ **PKLandSeg** Annotation-Guided Hybrid CNN-Vision Transformer for Landslide Segmentation *(IEEE GRSL)*
 - 📄 **Research paper link:**  https://ieeexplore.ieee.org/abstract/document/11430533
+- 🛰️ **Dataset link:** https://zenodo.org/records/21065148
 
 
 ---
